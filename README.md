@@ -1,9 +1,9 @@
-# Akshita-Biju
-# Hi there, I'm Akshita!
+# My-Portfolio
+# Hi there, I'm Akshita Biju!
 
 I'm a Computer Science undergraduate driven by a simple belief:
 
-> **AI won't replace great engineers—it will amplify them.**
+> **AI won't replace great engineers - it will amplify them.**
 
 As AI reshapes software engineering, I'm focused on mastering the fundamentals that remain timeless: building reliable software, understanding how systems work, and designing technology that's secure, scalable, and built to last.
 
@@ -48,7 +48,7 @@ My long-term goal is to specialize in **Cybersecurity Engineering**. I believe m
 
 ## Looking Ahead
 
-The next generation of software won't be defined by AI alone—it will be defined by engineers who know how to build trustworthy systems around it.
+The next generation of software won't be defined by AI alone - it will be defined by engineers who know how to build trustworthy systems around it.
 
 I'm particularly interested in exploring how software engineering, AI, and cybersecurity converge to create applications that are intelligent, resilient, and secure by design.
 
