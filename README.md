@@ -11,16 +11,20 @@ My long-term goal is to specialize in **Cybersecurity Engineering**. I believe m
 
 ---
 
-## What I'm Interested In
+### Building Depth In
 
-* Software Engineering
-* Cybersecurity
-* Artificial Intelligence
-* Backend Engineering
-* Cloud Computing
-* Distributed Systems
-* System Design
-* Operating Systems & Computer Networks
+#### Security Engineering
+
+Building secure software through application security, cloud security, and offensive security.
+
+#### AI Engineering
+
+Building AI-powered applications and agentic systems.
+
+#### Engineering Judgment
+
+Developing strong systems thinking, technical reasoning, and first-principles problem-solving.
+
 
 ---
 
@@ -37,9 +41,6 @@ My long-term goal is to specialize in **Cybersecurity Engineering**. I believe m
 
 ## What I'm Building
 
-* Production-grade software projects
-* AI-powered applications
-* Secure backend systems
 * Cybersecurity tools & labs
 * Strong computer science fundamentals
 * An open-source portfolio that reflects consistent growth
