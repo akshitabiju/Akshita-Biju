@@ -1,4 +1,4 @@
-# My-Portfolio
+# About Me
 # Hi there, I'm Akshita Biju!
 
 I'm a Computer Science undergraduate driven by a simple belief:
